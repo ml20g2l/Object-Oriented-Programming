@@ -1,4 +1,4 @@
-# COMP1721 Coursework 2
+# COMP1721 Coursework 1
 
 ## Using Gradle
 
